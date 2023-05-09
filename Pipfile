@@ -8,7 +8,7 @@ pandas = "*"
 numpy = "*"
 ipykernel = "*"
 scikit-learn = "*"
-tensorflow = "*"
+openpyxl = "*"
 
 [dev-packages]
 
